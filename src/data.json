@@ -1,0 +1,45 @@
+[
+        {
+            "question": "Javascript is an ?",
+            "incorrectAnswers": [
+                "Object Based",
+                "Procedural",
+                "None of the above"
+            ],
+            "correctAnswer":[ "Object Oriented","Colorful Style Sheets"]
+        },
+        {
+            "question": "Which of the following keywords is used to define a variable in Javascript?",
+            "incorrectAnswers": [
+                "const",
+                "None of the above"
+            ],
+            "correctAnswer": ["var","let"]
+        },
+        {
+            "question": "Which of the following methods is used to access HTML elements using Javascript?",
+            "incorrectAnswers": [
+                "Creative Style Sheets",
+                "Colorful Style Sheets"
+            ],
+            "correctAnswer": ["getElementsByClassName()","getElementbyId()"]
+        },
+        {
+            "question": "What does CSS stand for?",
+            "incorrectAnswers": [
+                "Computer Style Sheets",
+                "Creative Style Sheets",
+                "Colorful Style Sheets"
+            ],
+            "correctAnswer": "Cascading Style Sheets"
+        },
+        {
+            "question": "What does CSS stand for?",
+            "incorrectAnswers": [
+                "Computer Style Sheets",
+                "Creative Style Sheets",
+                "Colorful Style Sheets"
+            ],
+            "correctAnswer": "Cascading Style Sheets"
+        }
+    ]
